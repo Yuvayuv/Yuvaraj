@@ -9,6 +9,9 @@ public class Versus {
 		   
           System.out.println("res");
 	}
+	   private void em() {
+        System.out.println("ref");
+	}
 	   public static void main(String[] args) {
 		  Versus h = new Versus();
 		  h.emp();
