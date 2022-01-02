@@ -9,6 +9,9 @@ public class Versus {
 		   
           System.out.println("res");
 	}
+	   private void add() {
+        System.out.println("s");
+	}
 	   public static void main(String[] args) {
 		  Versus h = new Versus();
 		  h.emp();
